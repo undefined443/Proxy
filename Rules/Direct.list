@@ -13,6 +13,7 @@ DOMAIN, xp.apple.com
 
 # AI
 DOMAIN-SUFFIX, oaipro.com
+DOMAIN-SUFFIX, renrenai.chat
 DOMAIN-SUFFIX, studiolab.sagemaker.aws
 
 # VCC
