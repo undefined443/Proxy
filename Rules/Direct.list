@@ -15,6 +15,8 @@ DOMAIN, xp.apple.com
 DOMAIN-SUFFIX, oaipro.com
 DOMAIN-SUFFIX, renrenai.chat
 DOMAIN-SUFFIX, studiolab.sagemaker.aws
+DOMAIN-SUFFIX, qoder.com
+DOMAIN-SUFFIX, qoder.ai
 
 # VCC
 DOMAIN-SUFFIX, vvacard.com
