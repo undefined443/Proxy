@@ -18,7 +18,16 @@ DOMAIN, news-sports-events.apple.com
 DOMAIN, news-todayconfig-edge.apple.com
 DOMAIN, newsletter-edge.apple.com
 DOMAIN, c.apple.news
-PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News
+PROCESS-NAME, /System/Applications/News.app/Contents/MacOS/News
+
+# Google
+DOMAIN-SUFFIX, learning.google.com
+DOMAIN-SUFFIX, voice.google.com
+DOMAIN-SUFFIX, googleapis.com
+
+# Microsoft
+DOMAIN-SUFFIX, xbox.com
+DOMAIN-SUFFIX, xboxlive.com
 
 # Facebook
 DOMAIN-SUFFIX, facebook.com
@@ -26,26 +35,18 @@ DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, meta.com
 DOMAIN, metadotcom.fbthirdpartypixel.com
 
+# Twitter
+DOMAIN-SUFFIX, twitter.com
+DOMAIN-SUFFIX, twimg.com
+DOMAIN-SUFFIX, x.com
+
 # Paypal
 DOMAIN-SUFFIX, paypal.com
 DOMAIN-SUFFIX, paypalobjects.com
 
-# Google
-DOMAIN-SUFFIX, learning.google.com
-DOMAIN-SUFFIX, voice.google.com
-
 # AWS
 # DOMAIN-KEYWORD, us-east
 # DOMAIN-KEYWORD, us-wast
-
-# Twitter
-# DOMAIN-SUFFIX, twitter.com
-# DOMAIN-SUFFIX, twimg.com
-# DOMAIN-SUFFIX, x.com
-
-# Microsoft
-DOMAIN-SUFFIX, xbox.com
-DOMAIN-SUFFIX, xboxlive.com
 
 # Spotify
 DOMAIN-SUFFIX, spotify.com
