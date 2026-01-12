@@ -17,6 +17,7 @@ DOMAIN-SUFFIX, midjourney.com
 # OpenAI
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, oaiusercontent.com
 
 # Perplexity
 DOMAIN-SUFFIX, perplexity.ai
