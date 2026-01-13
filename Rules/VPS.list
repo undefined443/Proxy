@@ -8,5 +8,4 @@ DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
 DOMAIN-SUFFIX, oaiusercontent.com
 
-DOMAIN-SUFFIX, googleapis.com
 PROCESS-NAME, /Applications/Antigravity.app/
