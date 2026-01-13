@@ -24,6 +24,7 @@ PROCESS-NAME, /System/Applications/News.app/Contents/MacOS/News
 DOMAIN-SUFFIX, learning.google.com
 DOMAIN-SUFFIX, voice.google.com
 DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, antigravity-unleash.goog
 
 # Microsoft
 DOMAIN-SUFFIX, xbox.com
