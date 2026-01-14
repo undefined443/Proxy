@@ -3,6 +3,7 @@ DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, claudeusercontent.com
 DOMAIN, cdn.usefathom.com
+PROCESS-NAME, /Applications/Claude.app/
 
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
