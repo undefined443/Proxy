@@ -62,3 +62,6 @@ DOMAIN-SUFFIX, openrouter.ai
 
 # AWS Bedrock
 DOMAIN-KEYWORD, bedrock
+
+# Weights & Biases
+DOMAIN-SUFFIX, wandb.ai
