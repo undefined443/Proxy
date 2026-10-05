@@ -65,3 +65,4 @@ DOMAIN-KEYWORD, bedrock
 
 # Weights & Biases
 DOMAIN-SUFFIX, wandb.ai
+DOMAIN-SUFFIX, coreweave.com
