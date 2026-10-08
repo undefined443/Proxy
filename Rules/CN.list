@@ -31,7 +31,6 @@ DOMAIN-SUFFIX, qq.com
 
 # Development
 DOMAIN-SUFFIX, hf-mirror.com
-DOMAIN, challenges.cloudflare.com
 DOMAIN, mirror.ctan.org
 DOMAIN, cas-bridge.xethub.hf.co
 DOMAIN, vscode.download.prss.microsoft.com
