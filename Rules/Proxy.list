@@ -44,6 +44,7 @@ DOMAIN, storage.googleapis.com
 DOMAIN-SUFFIX, gstatic.com
 
 # Apple
+DOMAIN, imap.mail.me.com
 DOMAIN, netcts.cdn-apple.com
 DOMAIN, itunes.apple.com
 DOMAIN, music.apple.com
