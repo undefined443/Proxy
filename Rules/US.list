@@ -57,6 +57,10 @@ DOMAIN-SUFFIX, paypalobjects.com
 # DOMAIN-KEYWORD, us-east
 # DOMAIN-KEYWORD, us-wast
 
+DOMAIN-SUFFIX, tubi.tv
+DOMAIN-SUFFIX, tubitv.com
+DOMAIN-SUFFIX, adrise.tv
+
 # Misc
 DOMAIN-SUFFIX, bhnc.me
 DOMAIN-SUFFIX, poshmark.com
