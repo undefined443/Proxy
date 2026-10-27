@@ -9,3 +9,11 @@ DOMAIN-SUFFIX, za.group
 DOMAIN-SUFFIX, zajourney.com
 DOMAIN-SUFFIX, zafinsvc.com
 DOMAIN-SUFFIX, hsbc.com.hk
+
+# Steam
+DOMAIN-SUFFIX, steamusercontent.com
+DOMAIN-SUFFIX, steamcontent.com
+DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX, steampowered.com
+DOMAIN-SUFFIX, steamgames.com
+DOMAIN-SUFFIX, steamcommunity.com
