@@ -63,6 +63,7 @@ DOMAIN, p136-mccgateway.icloud.com
 DOMAIN, p136-ckdatabasews.icloud.com
 DOMAIN-SUFFIX, icloud-content.com
 DOMAIN-SUFFIX, push.apple.com
+DOMAIN, stocks-analytics-events.apple.com
 IP-CIDR, 17.0.0.0/8, no-resolve
 
 # Podcast
