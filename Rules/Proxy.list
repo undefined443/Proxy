@@ -131,6 +131,8 @@ DOMAIN-SUFFIX, ibkr.com
 DOMAIN, download.parallels.com
 DOMAIN, default.exp-tas.com
 DOMAIN, vsmarketplacebadge.apphb.com
+DOMAIN, update.code.visualstudio.com
+DOMAIN, vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, githubusercontent.com
