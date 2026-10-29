@@ -8,6 +8,7 @@ DOMAIN, cdn.usefathom.com
 PROCESS-NAME, /Applications/Claude.app/
 
 # OpenAI
+DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
 DOMAIN-SUFFIX, oaiusercontent.com
