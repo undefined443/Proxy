@@ -4,6 +4,10 @@ DOMAIN-SUFFIX, clau.de
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, claudeusercontent.com
+DOMAIN-SUFFIX, ant.dev
+DOMAIN, claude.fedstart.com
+DOMAIN, claude-staging.fedstart.com
+DOMAIN, claude.googleapis.com
 DOMAIN, cdn.usefathom.com
 PROCESS-NAME, /Applications/Claude.app/
 
