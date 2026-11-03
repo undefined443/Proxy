@@ -40,3 +40,6 @@ DOMAIN, developer.download.nvidia.com
 DOMAIN-SUFFIX, api-flowercloud.com
 
 DOMAIN-SUFFIX, rockstargames.com
+
+# IP lookup
+DOMAIN-SUFFIX, ipapi.is
