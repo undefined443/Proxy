@@ -17,3 +17,10 @@ DOMAIN-SUFFIX, steamstatic.com
 DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, steamgames.com
 DOMAIN-SUFFIX, steamcommunity.com
+
+# Stripe / Link
+DOMAIN-SUFFIX, stripe.com
+DOMAIN-SUFFIX, stripe.network
+DOMAIN-SUFFIX, stripecdn.com
+DOMAIN-SUFFIX, link.com
+DOMAIN-SUFFIX, link.app
