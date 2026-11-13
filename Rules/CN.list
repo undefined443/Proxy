@@ -5,6 +5,7 @@ DOMAIN-SUFFIX, zhihu.com
 DOMAIN, cable.auth.com
 DOMAIN-SUFFIX, itunes.com
 DOMAIN, smtp.mail.me.com
+DOMAIN, imap.mail.me.com
 DOMAIN-SUFFIX, apple-cloudkit.com
 DOMAIN-SUFFIX, apple.com
 DOMAIN-SUFFIX, icloud.com
